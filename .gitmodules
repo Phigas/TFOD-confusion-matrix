@@ -1,0 +1,3 @@
+[submodule "TFOD-inference-generator"]
+	path = TFOD-inference-generator
+	url = https://github.com/phigas/TFOD-inference-generator.git
