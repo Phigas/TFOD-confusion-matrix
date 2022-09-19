@@ -1,0 +1,5 @@
+theme: jekyll-theme-dinky
+title: A better way for evaluating TFOD models
+description: A script for more control when evaluating TFOD models (can also do confusion matrices)
+show_downloads: false
+# google_analytics: 
